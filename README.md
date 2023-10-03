@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Hey!</title>
-  <link href="styles.css">
-</head>
-<style>
+ 
     h1 {
 	color: green;
 }
