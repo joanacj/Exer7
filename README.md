@@ -1,25 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- 
-    h1 {
-	color: green;
-}
 
-h2 {
-	color: magenta;
-}
-
-p {
-  color: white;
-  background-color: black;
-}
-
-button {
-  color: red;
-  background-color: pink;
-}
-</style>
 <body>
   <h1>Please make me green</h1>
   <h2>This is so ugly</h2>
